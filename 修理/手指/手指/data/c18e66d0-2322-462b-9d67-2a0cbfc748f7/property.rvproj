@@ -1,0 +1,19 @@
+{
+    "color_type": 0,
+    "edit_time": "1717773023",
+    "fuse_file": "",
+    "guid": "c18e66d0-2322-462b-9d67-2a0cbfc748f7",
+    "merge_depends": [],
+    "mesh_file": "model_mesh.ply",
+    "model_property": {
+        "density": 0,
+        "face_count": 29542,
+        "point_count": 0,
+        "vertex_count": 14915
+    },
+    "model_type": 1,
+    "size": 812568,
+    "source_type": 2,
+    "texture_file": "",
+    "version": "1.2"
+}

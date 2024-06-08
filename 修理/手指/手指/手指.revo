@@ -1,0 +1,18 @@
+{
+    "edit_time": "1717773023",
+    "guid": "c22afe09-712a-45d7-acf4-1ba01f66844b",
+    "model_mesh_count": 1,
+    "model_pointcloud_count": 0,
+    "name": "手指",
+    "nodes": [
+        {
+            "childs": [],
+            "guid": "c18e66d0-2322-462b-9d67-2a0cbfc748f7",
+            "name": "06062024125759",
+            "type": 3
+        }
+    ],
+    "scan_scene": {},
+    "size": "813004",
+    "version": "1.2"
+}
