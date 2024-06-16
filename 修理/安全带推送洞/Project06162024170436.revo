@@ -1,0 +1,18 @@
+{
+    "edit_time": "1718528851",
+    "guid": "042376c3-9b26-4e52-a866-42daee068d4a",
+    "model_mesh_count": 1,
+    "model_pointcloud_count": 0,
+    "name": "Project06162024170436",
+    "nodes": [
+        {
+            "childs": [],
+            "guid": "04de9c27-6244-488f-826b-c7c21b58137c",
+            "name": "06062024125759",
+            "type": 3
+        }
+    ],
+    "scan_scene": {},
+    "size": "7483326",
+    "version": "1.2"
+}
